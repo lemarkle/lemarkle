@@ -1,4 +1,4 @@
-h1 align="center">Hi there 👋 I’m Mark Le</h1>
+<h1 align="center">Hi there 👋 I’m Mark Le</h1>
 
 <p align="center">
 Student @ UC Davis • Mobile & Full-Stack Dev • AI/ML Enthusiast 
